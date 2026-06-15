@@ -80,14 +80,6 @@ The dataset contains information regarding:
 
 ---
 
-##  Overall Olympic Analysis
-
-<p align="center">
-  <img src="./overall.png" width="900">
-</p>
-
----
-
 ## Events Heatmap
 
 <p align="center">
