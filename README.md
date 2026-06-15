@@ -1,4 +1,4 @@
-# 🏅 Olympic Analysis Web Application
+#  Olympic Analysis Web Application
 
 An interactive **Olympic Data Analysis Dashboard** built using **Python, Streamlit, Pandas, Plotly, Matplotlib and Seaborn**.
 
@@ -6,29 +6,29 @@ The application allows users to explore Olympic Games statistics, medal tallies,
 
 ---
 
-# 🚀 Live Features
+#  Live Features
 
-✅ Medal Tally Analysis
+ Medal Tally Analysis
 
-✅ Overall Olympic Statistics
+ Overall Olympic Statistics
 
-✅ Country-wise Performance Analysis
+ Country-wise Performance Analysis
 
-✅ Athlete-wise Analysis
+ Athlete-wise Analysis
 
-✅ Interactive Charts & Graphs
+ Interactive Charts & Graphs
 
-✅ Heatmaps and Data Visualization
+ Heatmaps and Data Visualization
 
-✅ Age Distribution Analysis
+ Age Distribution Analysis
 
-✅ Height vs Weight Analysis
+ Height vs Weight Analysis
 
-✅ Gender Participation Trends
+ Gender Participation Trends
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 - Python
 - Streamlit
@@ -43,7 +43,7 @@ The application allows users to explore Olympic Games statistics, medal tallies,
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 The project uses the **Olympic History Dataset** obtained from **Kaggle**.
 
@@ -60,44 +60,46 @@ The dataset contains information regarding:
 
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
-## 🏠 Home Page
+---
+
+##  Home Page
 
 <p align="center">
-<img src="images/home.png" width="900">
+  <img src="./home.png" width="900">
 </p>
 
 ---
 
-## 🥇 Medal Tally
+##  Medal Tally Analysis
 
 <p align="center">
-<img src="images/medal.png" width="900">
+  <img src="./medal.png" width="900">
 </p>
 
 ---
 
-## 🌍 Overall Olympic Analysis
+##  Overall Olympic Analysis
 
 <p align="center">
-<img src="images/overall.png" width="900">
+  <img src="./overall.png" width="900">
 </p>
 
 ---
 
-## 🔥 Events Heatmap
+## Events Heatmap
 
 <p align="center">
-<img src="images/heatmap.png" width="900">
+  <img src="./heatmap.png" width="900">
 </p>
 
 ---
 
-## 🏆 Most Successful Athletes
+##  Most Successful Athletes
 
 <p align="center">
-<img src="images/athlete.png" width="900">
+  <img src="./athlete.png" width="900">
 </p>
 
 ---
@@ -105,31 +107,31 @@ The dataset contains information regarding:
 ## 🇮🇳 Country-wise Analysis
 
 <p align="center">
-<img src="images/country.png" width="900">
+  <img src="./country.png" width="900">
 </p>
 
 ---
 
-## 📈 Country Sports Heatmap
+## 📊 Country Sports Heatmap
 
 <p align="center">
-<img src="images/countryheatmap.png" width="900">
+  <img src="./countryheatmap.png" width="900">
 </p>
 
 ---
 
-## 🎂 Athlete Age Distribution
+##  Athlete Age Distribution
 
 <p align="center">
-<img src="images/age.png" width="900">
+  <img src="./age.png" width="900">
 </p>
 
 ---
 
-## 🏃 Age Distribution by Sports
+##  Age Distribution by Sports
 
 <p align="center">
-<img src="images/sportage.png" width="900">
+  <img src="./sportage.png" width="900">
 </p>
 
 ---
@@ -137,20 +139,19 @@ The dataset contains information regarding:
 ## 📏 Height vs Weight Analysis
 
 <p align="center">
-<img src="images/scatter.png" width="900">
+  <img src="./scatter.png" width="900">
 </p>
 
 ---
 
-## 👨‍🦰👩 Gender Participation Over Time
+##  Men vs Women Participation Over the Years
 
 <p align="center">
-<img src="images/gender.png" width="900">
+  <img src="./gender.png" width="900">
 </p>
 
 ---
-
-# 📂 Project Workflow
+#  Project Workflow
 
 ```
 Kaggle Dataset
@@ -171,7 +172,7 @@ Interactive Dashboard using Streamlit
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 - Analyze Olympic medal trends over different years.
 - Compare country performances across Olympic editions.
@@ -183,7 +184,7 @@ Interactive Dashboard using Streamlit
 
 ---
 
-# ▶️ Installation
+#  Installation
 
 Clone the repository
 
@@ -211,7 +212,7 @@ streamlit run app.py
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - Olympics Prediction Model
 - AI-based Medal Prediction
@@ -222,7 +223,7 @@ streamlit run app.py
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Kavya Tyagi**
 
@@ -230,4 +231,4 @@ Aspiring Software Developer | Python | Data Analytics | Machine Learning | Web D
 
 ---
 
-## ⭐ If you liked this project, don't forget to Star the repository!
+##  If you liked this project, don't forget to Star the repository!
